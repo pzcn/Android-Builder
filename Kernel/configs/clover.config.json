@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Mi Pad 4",
+      "name": "MiPad4",
       "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_clover",
       "branch": "thirteen-plus",
       "device": "clover",
